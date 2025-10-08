@@ -10,3 +10,5 @@
 - git add .
 - git commit -m "commit msg"
 - git commit -m "Added login form validation"
+- publish the branch 
+- Raise PR 
