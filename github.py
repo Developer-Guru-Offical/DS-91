@@ -7,4 +7,6 @@
 - feature 
 - how to create feature branch (git checkout -b 'branch name')
 - git status 
+- git add .
+- git commit -m "commit msg"
 - 
