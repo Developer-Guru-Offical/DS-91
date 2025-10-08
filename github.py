@@ -1,0 +1,15 @@
+
+- Create a account 
+- Repository 
+- connection between vs code & github 
+- Github Desktop 
+- Main 
+- feature 
+- how to create feature branch (git checkout -b 'branch name')
+- git status 
+- git add .
+- git commit -m "commit msg"
+- git commit -m "Added login form validation"
+- publish the branch 
+- Raise PR 
+- merge into main branch
