@@ -9,4 +9,4 @@
 - git status 
 - git add .
 - git commit -m "commit msg"
-- 
+- git commit -m "Added login form validation"
