@@ -12,3 +12,4 @@
 - git commit -m "Added login form validation"
 - publish the branch 
 - Raise PR 
+- merge into main branch
